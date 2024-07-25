@@ -1,6 +1,6 @@
 # This Code is Heavily Inspired By The YouTuber: Cheesy AI
 # Code Changed, Optimized And Commented By: NeuralNine (Florian Dedov)
-
+import streamlit as st
 import math
 import random
 import sys
